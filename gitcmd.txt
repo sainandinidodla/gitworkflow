@@ -1,0 +1,6 @@
+git config --global user.name "[name]"
+git config --global user.email "[email address]"
+git branch [branch-name]
+git switch -c [branch-name]
+git merge [branch]
+git branch -d [branch-name]
